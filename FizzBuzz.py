@@ -1,3 +1,4 @@
+#My first attempt:
 for i in range(1,101):
     if i%3 == 0 and i%5 == 0:
         print("FizzBuzz")
@@ -10,7 +11,8 @@ for i in range(1,101):
 
 
 #Another more scalable way:
-
+#Easier to add new conditions & change existing ones
+#Credits to Tom Scott
 for i in range (1,101):
     output = ""
 
@@ -24,8 +26,11 @@ for i in range (1,101):
     
     print(output)
 
-#Or maybe like this?
 
+#Or maybe like this?
+#Using a dictionary to store all "if condition" pairs
+#Can manage all conditions in one place
+#Also reduced the repeated use of if statements
 for i in range (1,101):
     output = ""
 
