@@ -4,7 +4,7 @@ This project consists of a collection of FizzBuzz programs in various programmin
 This project is inspired by a YouTube video of Tom Scott ["FizzBuzz: One Simple Interview Question"] (https://www.youtube.com/watch?v=QPZ0pIK_wsc), in which he discusses the importance of writing readable and scalable code. Thus, I aims to improve my coding skills in a clean and organized manner through this project by recording my initial attempt, along with better solutions contributed by others, and my updated solutions. 
 
 
-**Currently written in:
+**Currently written in:**
 1. Python
 
 
